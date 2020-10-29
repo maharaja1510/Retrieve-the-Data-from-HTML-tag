@@ -1,5 +1,8 @@
 # Retrieve-the-Data-from-HTML-tag
 Retrieve the data from HTML tag using python with beautifulsoup4.
+
+
+
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import ssl
